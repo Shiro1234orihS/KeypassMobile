@@ -9,6 +9,8 @@
 
     <string name="lorem_ipsum">test riri</string>
 
+
     <string name="nomUtilisateur">Nom d\'utilisateur :</string>
     <string name="motPasse">Mot de passe</string>
+    <string name="login">Connection</string>
 </resources>
